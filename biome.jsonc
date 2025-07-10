@@ -1,0 +1,15 @@
+{
+  "$schema": "https://biomejs.dev/schemas/2.0.6/schema.json",
+  "extends": [
+    "ultracite"
+  ],
+  "vcs": {
+    "enabled": true,
+    "clientKind": "git"
+  },
+  "javascript":{
+    "formatter":{
+      "semicolons":"asNeeded"
+    }
+  }
+}
